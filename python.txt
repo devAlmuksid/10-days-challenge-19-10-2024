@@ -1,6 +1,7 @@
-python class 1   -   10-19-2024
-programize/ w3 school and others one
+python class 1   -   10-19-2024    -     Day 1 Done
+programize/ w3 school and others 
 
+1.   #   Comments only
 
 
 python class 2   -   10-20-2024
