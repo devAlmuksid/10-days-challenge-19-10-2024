@@ -1,7 +1,22 @@
 JavaScripts class 1   -   10-19-2024
 programize/ w3 school and others one
+1. Variable    1. var age;    
+               2. let name;    let score = 5.2;
+               3. const num;   const num = 5;
 
+2. Console.log()    1. // store value in greet variable
+                      const greet = "Hello";
+                      
+                      // print the value of greet variable
+                      console.log(greet);
 
+3. DataType
+
+4. Operators
+
+5. Comments     1. // - Single-Line Comments
+                2. /* */ - Multiline Comments
+6. Conversation   @ Want to know
 
 JavaScripts class 2   -   10-20-2024
 
